@@ -1,0 +1,7 @@
+AND 0
+ADD 1
+LDA	2
+STA 3
+BUN 4
+BSA 5
+ISZ 6
